@@ -3,12 +3,13 @@
 
 # 💻 Tech Stack
 
-• Front End: Next.js, React, React Native, TypeScript, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap, Material-UI (MUI).  
-• Back End: Node.js, PHP, Laravel, Prisma, PostgreSQL, MySQL, MongoDB, Supabase.  
-• DevOps: Git, Docker, Vercel, Netlify, Apache, GitHub, Postman.  
+• Front End: Next.js, React, React Native, TypeScript, JavaScript, Angular, Redux, Zustand, HTML5, CSS3, TailwindCSS, Shadcn, Zod, Bootstrap, Material-UI (MUI).  
+• Back End: Nest.js, Express.js, Node.js, PHP, Laravel, Prisma, Convex, PostgreSQL, MySQL, MongoDB, Supabase, API (REST & GraphQL).  
+• DevOps: Git, Docker, Kubernetes, Vercel, Netlify, Apache, GitHub, Postman, CI/CD, GitHub Actions.  
 • Methodology: Agile Methodology.  
-• Familiar with: Canva.  
 
+### 👀 Total Profile Views
+![Profile Views](https://visitcount.itsvg.in/api?id=Abdullah-Radwan1&icon=1&color=3)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdullah-Radwan1&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
