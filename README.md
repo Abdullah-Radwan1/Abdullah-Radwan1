@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-radwan-280140284/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdallahbeedo8555@gmail.com) 
 
 # 💻 Tech Stack
-• Front End: Next.js, React, React Native, TypeScript, JavaScript, Angular, Redux, Zustand, HTML5, CSS3, TailwindCSS, Shadcn, Zod, Bootstrap, Material-UI (MUI).  
+• Front End: Next.js, React, React Native, TypeScript, JavaScript, Angular, Redux, Zustand, HTML5, CSS3, TailwindCSS, Shadcn, Zod, Bootstrap, (MUI).  
 • Back End: Nest.js, Express.js, Node.js, PHP, Laravel, Prisma, Convex, PostgreSQL, MySQL, MongoDB, Supabase, API (REST & GraphQL).  
 • DevOps: Git, Docker, Vercel, Netlify, Apache, GitHub, Postman, CI/CD, GitHub Actions.  
 • Methodology: Agile Methodology.  
@@ -18,7 +18,4 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Abdullah-Radwan1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=Abdullah-Radwan1&icon=1&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
