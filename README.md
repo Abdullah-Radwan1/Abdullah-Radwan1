@@ -8,9 +8,6 @@
 • DevOps: Git, Docker, Kubernetes, Vercel, Netlify, Apache, GitHub, Postman, CI/CD, GitHub Actions.  
 • Methodology: Agile Methodology.  
 
-### 👀 Total Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Radwan1&label=Profile%20views&color=0e75b6&style=flat)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Abdullah-Radwan1&theme=ocean_dark&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Abdullah-Radwan1&theme=ocean_dark&hide_border=false)<br/>
